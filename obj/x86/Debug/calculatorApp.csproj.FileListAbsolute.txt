@@ -1,0 +1,7 @@
+c:\users\dineshi\documents\visual studio 2010\Projects\calculatorApp\calculatorApp\bin\Debug\calculatorApp.exe
+c:\users\dineshi\documents\visual studio 2010\Projects\calculatorApp\calculatorApp\bin\Debug\calculatorApp.pdb
+c:\users\dineshi\documents\visual studio 2010\Projects\calculatorApp\calculatorApp\obj\x86\Debug\calculatorApp.Form1.resources
+c:\users\dineshi\documents\visual studio 2010\Projects\calculatorApp\calculatorApp\obj\x86\Debug\calculatorApp.Properties.Resources.resources
+c:\users\dineshi\documents\visual studio 2010\Projects\calculatorApp\calculatorApp\obj\x86\Debug\calculatorApp.csproj.GenerateResource.Cache
+c:\users\dineshi\documents\visual studio 2010\Projects\calculatorApp\calculatorApp\obj\x86\Debug\calculatorApp.exe
+c:\users\dineshi\documents\visual studio 2010\Projects\calculatorApp\calculatorApp\obj\x86\Debug\calculatorApp.pdb
